@@ -1,7 +1,7 @@
-| product\_id | product\_name              | product\_type | skill\_area     | recommended\_for      |
-| ----------- | -------------------------- | ------------- | --------------- | --------------------- |
-| 101         | Cognitive Ability Test     | Assessment    | Cognitive       | Entry-level roles     |
-| 102         | Personality Questionnaire  | Assessment    | Behavioral      | All roles             |
-| 103         | Situational Judgement Test | Assessment    | Decision Making | Leadership roles      |
-| 104         | Coding Simulation          | Assessment    | Programming     | Software roles        |
-| 105         | Language Proficiency Test  | Assessment    | Communication   | Customer-facing roles |
+product_id,product_name,product_type,skill_area,recommended_for,,,,
+101,Cognitive Ability Test,Assessment,Cognitive,Entry-level roles,,,,
+102,Personality Questionnaire,Assessment,Behavioral,All roles,,,,
+103,Situational Judgement Test,Assessment,Decision Making,Leadership roles,,,,
+104,Coding Simulation,Assessment,Programming,Software roles,,,,
+105,Language Proficiency Test,Assessment,Communication,Customer-facing roles,,,,
+,,,,,,,,
